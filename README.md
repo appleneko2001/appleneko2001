@@ -1,12 +1,24 @@
 ## Welcome to my github page! 👋
 > Tips: 想要看中文的個人頁面嗎? [這裏👋](README.zh-Hant.md)
 
-I'm ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cuz I only have ~~me and my trash repos~~.
+I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cuz I only have ~~me and my trash repos~~.
+
+- 🔭 I’m currently working on osulazer translate and slightly improving
+- 🌱 I’m currently learning Unreal Engine 4
+- 📫 How to reach me: appleneko2001@outlook.com
 
 But if u interested my repos, keep going ;)
 
 ### Currently I have ability to programming with (actually it is my primary choise):
-[![](https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+<p>
+  <p align="right" width="50%">
+  C# (CSharp) is a programming language that better than Java and easier than C++. If you still lost in Java or confused or whatever, just come learn some C# and go write some C# code!
+    
+    
+  </p>
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png" width="30%"></code>
+</p>
+
 * (Yes I still stuck in loves with C# but I have some ability with other programming languages: JavaScript, HTML5, CSS, C++ and Batch/Bash Script)
 
 *Never stop programming with C#, ~~keep beat Java!~~(it's a joke bro but Java are useless for me)*
@@ -45,5 +57,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-No thx(
+I think I can use those things 🤔
 -->
