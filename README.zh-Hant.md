@@ -1,11 +1,10 @@
 ## 歡迎來到我的Github個人頁面! 👋
+
 我是 osu! ~~廢物~~ (開玩笑 我只是不想寫介紹而已) 
 
-### 目前我擁有能力編寫的程式語言:
-[![](https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png)](https://zh.wikipedia.org/zh-tw/C%E2%99%AF)
-* (沒錯我仍然喜歡用C#去編寫程式 但是我有其他的選擇 雖然不是特別厲害 甚至很爛: JavaScript, HTML5, CSS, C++ 和 Batch/Bash 腳本)
-
 *永遠不會停止編寫 C# 程式, ~~繼續戰勝 Java!~~(這是個玩笑 但是對我來講 Java 很爛 希望你不會生氣)*
+
+* (沒錯我仍然喜歡用C#去編寫程式 但是我有其他的選擇 雖然不是特別厲害 甚至很爛: JavaScript, HTML5, CSS, C++ 和 Batch/Bash 腳本)
 
 ### 目前進行中的專案:
 [![osulazer 中文化](https://img.shields.io/badge/osulazer-中文化-ff69b4)](https://github.com/appleneko2001/osu)
@@ -23,4 +22,10 @@
 
 > 不用擔心, 他們仍然還有機會復活! 只要我還在
 
+### 加入聊天:
+[![](https://img.shields.io/discord/764888749855080468?color=2c2f33&label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA)](https://discord.com/invite/5xKSXkm)
+
 該頁面的引用: [Abraham's Programming languages logos](https://github.com/abranhe/programming-languages-logos)
+
+
+PS: 比英文版少了不少字吧? 我也是這麼覺得的... 我自己看完也驚了
