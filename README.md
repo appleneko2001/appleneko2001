@@ -1,4 +1,6 @@
 ## Welcome to my github page! 👋
+> Tips: 想要看中文的個人頁面嗎? [這裏👋](README.zh-Hant.md)
+
 I'm ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cuz I only have ~~me and my trash repos~~.
 
 But if u interested my repos, keep going ;)
