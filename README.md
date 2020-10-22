@@ -10,14 +10,14 @@ I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cu
 But if u interested my repos, keep going ;)
 
 ### Currently I have ability to programming with (actually it is my primary choise):
-<p>
-  <p align="right" width="50%">
-  C# (CSharp) is a programming language that better than Java and easier than C++. If you still lost in Java or confused or whatever, just come learn some C# and go write some C# code!
-    
-    
-  </p>
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png" width="30%"></code>
-</p>
+   <img align="right" width="30%" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png">
+  C# (CSharp) is a high-level programming language that better<br>
+than Java and easier than C++. If you still lost in Java or <br>
+confused or whatever, just come learn some C# and go write some <br>
+C# code!
+
+
+
 
 * (Yes I still stuck in loves with C# but I have some ability with other programming languages: JavaScript, HTML5, CSS, C++ and Batch/Bash Script)
 
