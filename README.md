@@ -7,21 +7,26 @@ I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cu
 - 🌱 I’m currently learning Unreal Engine 4
 - 📫 How to reach me: appleneko2001@outlook.com
 
-But if u interested my repos, keep going ;)
+But if u interested my repos (or this introduction), keep going ;)
 
-### Currently I have ability to programming with (actually it is my primary choise):
-   <img align="right" width="30%" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png">
+<img align="right" width="30%" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_512x512.png">
   C# (CSharp) is a high-level programming language that better<br>
-than Java and easier than C++. If you still lost in Java or <br>
+than Java and easier than C++. If you still lost in Java or   <br>
 confused or whatever, just come learn some C# and go write some <br>
-C# code!
+C# code! <br>
 
+  Pros:
+- OOP-targed Programming language
+- Cross-Platforming support
+- Syntax are similar with Java
+- Memory-Managed Programming language
+- Lambda-Expressions, Linq and more!
 
-
-
-* (Yes I still stuck in loves with C# but I have some ability with other programming languages: JavaScript, HTML5, CSS, C++ and Batch/Bash Script)
+<br>
 
 *Never stop programming with C#, ~~keep beat Java!~~(it's a joke bro but Java are useless for me)*
+
+(Yes I still stuck in loves with C# but I have some ability with other programming languages: JavaScript, HTML5, CSS, C++ and Batch/Bash Script)
 
 ### My currently active projects:
 [![osulazer-zh-tw-translate](https://img.shields.io/badge/osulazer-zh--tw--translate-ff69b4)](https://github.com/appleneko2001/osu)
