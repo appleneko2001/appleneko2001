@@ -29,8 +29,6 @@ If u interested my repos (or this introduction), keep going ;)
 
 > But don't worry, they still have chances to revive again when I still alive!
 
-References in this page: [Abraham's Programming languages logos](https://github.com/abranhe/programming-languages-logos)
-
 And I'm sorry about my English knowledges if u misunderstand, it is not ur mistake.
 
 <!--
