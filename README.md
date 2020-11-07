@@ -15,7 +15,7 @@ If u interested my repos (or this introduction), keep going ;)
 
 ### My currently active projects:
 [![osulazer-zh-tw-translate](https://img.shields.io/badge/osulazer-zh--tw--translate-ff69b4)](https://github.com/appleneko2001/osu)
-> not only translate, contains some patches from me! For example beatmap details in select screen fix (sorry I'm git noob, I can't use PR except I will be killed by ppy)
+> not only translate, contains some patches from me! For example beatmap details in select screen fix (sorry I'm git noob, I can't use PR otherwize I will be killed by ppy)
 
 [![tak2flac-tools](https://img.shields.io/badge/tak2flac-tools-brightgreen)](https://github.com/appleneko2001/tak2flac)
 > It works even in Linux platform! congrats FFMpeg!
