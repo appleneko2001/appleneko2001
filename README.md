@@ -3,8 +3,8 @@
 
 I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cuz I only have ~~me and my trash repos~~.
 
-- 🔭 I’m currently working on osulazer translate and slightly improving
-- 🌱 I’m currently learning Unreal Engine 4
+- 🔭 I’m currently working on Material.Avalonia improvements, osulazer translate and slightly improving
+- 🌱 I’m currently learning AvaloniaUI, Unreal Engine 4
 - 📫 How to reach me: appleneko2001@outlook.com
 
 *Never stop programming with C#, ~~keep beat Java!~~(it's a joke bro but Java are useless for me)*
