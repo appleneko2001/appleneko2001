@@ -11,8 +11,6 @@ I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cu
 
 (Yes I still stuck in loves with C# but I have some ability with other programming languages: JavaScript, HTML5, CSS, C++ and Batch/Bash Script)
 
-If u interested my repos (or this introduction), keep going ;) 
-
 ### My currently active projects:
 [![osulazer-zh-tw-translate](https://img.shields.io/badge/osulazer-zh--tw--translate-ff69b4)](https://github.com/appleneko2001/osu)
 > not only translate, contains some patches from me! For example beatmap details in select screen fix (sorry I'm git noob, I can't use PR otherwize I will be killed by ppy)
