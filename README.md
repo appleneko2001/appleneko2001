@@ -3,7 +3,7 @@
 
 I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cuz I only have ~~me and my trash repos~~.
 
-- 🔭 I’m currently working on Material.Avalonia improvements, osulazer translate and slightly improving
+- 🔭 I’m currently working on Material.Avalonia improvements
 - 🌱 I’m currently learning AvaloniaUI, Unreal Engine 4
 - 📫 How to reach me: appleneko2001@outlook.com
 
