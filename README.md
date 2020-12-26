@@ -15,9 +15,6 @@ I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cu
 [![Material.Avalonia](https://img.shields.io/badge/Material.Avalonia--Mod-ff69b4)](https://github.com/appleneko2001/material.avalonia)
 > A lot changes! and demo with pretty new design. Currently it have NavigationDrawer, ColorZone with shadow, some FABs styles (Floating action button) and etc. Will be merged to original repo when it fully usable.
 
-[![osulazer-zh-tw-translate](https://img.shields.io/badge/osulazer-zh--tw--translate-ff69b4)](https://github.com/appleneko2001/osu)
-> not only translate, contains some patches from me! For example beatmap details in select screen fix (sorry I'm git noob, I can't use PR otherwize I will be killed by ppy). Priority have been downgraded so it will be updated lately a lot.
-
 [![tak2flac-tools](https://img.shields.io/badge/tak2flac-tools-brightgreen)](https://github.com/appleneko2001/tak2flac)
 > It works even in Linux platform! congrats FFMpeg!
 
