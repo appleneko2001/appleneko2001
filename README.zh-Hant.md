@@ -6,10 +6,7 @@
 
 * (沒錯我仍然喜歡用C#去編寫程式 但是我有其他的選擇 雖然不是特別厲害 甚至很爛: JavaScript, HTML5, CSS, C++ 和 Batch/Bash 腳本)
 
-### 目前進行中的專案:
-[![osulazer 中文化](https://img.shields.io/badge/osulazer-中文化-ff69b4)](https://github.com/appleneko2001/osu)
-> 不只有翻譯 也有一點我自己加入的修正! 比如在選擇圖譜界面的圖譜資訊修正 (抱歉 我不太擅長使用git 不敢直接PR 不然ppy會殺了我!)
-
+### 目前進行中的專案: 
 [![tak2flac 工具](https://img.shields.io/badge/tak2flac-工具-brightgreen)](https://github.com/appleneko2001/tak2flac)
 > 它甚至可以在 Linux 作業系統下運作! 感謝FFMpeg!
 
