@@ -5,7 +5,7 @@ I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cu
 
 - 🔭 I’m currently working on Material.Avalonia improvements
 - 🌱 I’m currently learning AvaloniaUI, Unreal Engine 4
-- 📫 How to reach me: appleneko2001@outlook.com
+- 📫 How to reach me: appleneko2001@outlook.com (will answering not instantly)
 
 *Never stop programming with C#, ~~keep beat Java!~~(it's a joke bro but Java are useless for me)*
 
