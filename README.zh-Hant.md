@@ -7,6 +7,9 @@
 * (沒錯我仍然喜歡用C#去編寫程式 但是我有其他的選擇 雖然不是特別厲害 甚至很爛: JavaScript, HTML5, CSS, C++ 和 Batch/Bash 腳本)
 
 ### 目前進行中的專案: 
+[![Material.Avalonia](https://img.shields.io/badge/Material.Avalonia-ff69b4)](https://github.com/AvaloniaUtils/material.avalonia)
+> 我正在忙於修正這個專案! AvaloniaUI的效能比WPF更好, 你應該試着用AvaloniaUI製作桌面應用!
+
 [![tak2flac 工具](https://img.shields.io/badge/tak2flac-工具-brightgreen)](https://github.com/appleneko2001/tak2flac)
 > 它甚至可以在 Linux 作業系統下運作! 感謝FFMpeg!
 
