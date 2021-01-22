@@ -12,11 +12,11 @@ I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cu
 (Yes I still stuck in loves with C# but I have some ability with other programming languages: JavaScript, HTML5, CSS, C++ and Batch/Bash Script)
 
 ### My currently active projects:
-[![Material.Avalonia](https://img.shields.io/badge/Material.Avalonia--Mod-ff69b4)](https://github.com/appleneko2001/material.avalonia)
-> A lot changes! and demo with pretty new design. Currently it have NavigationDrawer, ColorZone with shadow, some FABs styles (Floating action button) and etc. Will be merged to original repo when it fully usable.
+[![Material.Avalonia](https://img.shields.io/badge/Material.Avalonia-ff69b4)](https://github.com/AvaloniaUtils/material.avalonia)
+> I'm working for improvementing Material.Avalonia now! AvaloniaUI performances are better than WPF, you should try this with AvaloniaUI to create Desktop Application!
 
 [![tak2flac-tools](https://img.shields.io/badge/tak2flac-tools-brightgreen)](https://github.com/appleneko2001/tak2flac)
-> It works even in Linux platform! congrats FFMpeg!
+> FFMpeg are working almost everywhere and FFMpeg are supported to converting tak!
 
 [![Github-ProfileLeftDockFix](https://img.shields.io/badge/Github-ProfileLeftDockFix-brightgreen)](https://github.com/appleneko2001/GithubProfileLeftDockFix)
 > Fix the damn left details layout of Github profile.
