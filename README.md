@@ -11,7 +11,7 @@ I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cu
 
 (Yes I still stuck in loves with C# but I have some ability with other programming languages: JavaScript, HTML5, CSS, C++ and Batch/Bash Script)
 
-### My currently active projects:
+### My active projects:
 [![Material.Avalonia](https://img.shields.io/badge/Material.Avalonia-ff69b4)](https://github.com/AvaloniaUtils/material.avalonia)
 > I'm working for improvementing Material.Avalonia now! AvaloniaUI performances are better than WPF, you should try this with AvaloniaUI to create Desktop Application!
 
