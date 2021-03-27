@@ -25,7 +25,4 @@
 ### 加入聊天:
 [![](https://img.shields.io/discord/764888749855080468?color=2c2f33&label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA)](https://discord.com/invite/5xKSXkm)
 
-該頁面的引用: [Abraham's Programming languages logos](https://github.com/abranhe/programming-languages-logos)
-
-
 PS: 比英文版少了不少字吧? 我也是這麼覺得的... 我自己看完也驚了
