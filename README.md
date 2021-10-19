@@ -11,6 +11,11 @@ I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cu
 
 (Yes I still stuck in loves with C# but I have some ability with other programming languages: JavaScript, HTML5, CSS, C++ and Batch/Bash Script)
 
+My GPG ID for commit changes:
+- `E9F05712C396D31E` (Actived)
+- `F368902F9D63B82D` (Obsoleted in 2021.10.19)
+</br>Please do check it out when I commited changes on VERIFIED BADGE! My old GPG key was stolen since I lost my flash drive. But I dont sure it could be abused by others. I wish they choosing to erase my losted flash drive before they use that.
+
 ### My active projects:
 [![Material.Avalonia](https://img.shields.io/badge/Material.Avalonia-ff69b4)](https://github.com/AvaloniaUtils/material.avalonia)
 > I'm working for Material.Avalonia improvements now! AvaloniaUI performances are better than WPF, you should try this with AvaloniaUI to create Desktop Application, if you care about performances and more better UI library without any CEF ([Chromium Embedded Framework](https://en.wikipedia.org/wiki/Chromium_Embedded_Framework)) to run everywhere!
