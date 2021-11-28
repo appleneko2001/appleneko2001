@@ -15,7 +15,7 @@ I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cu
 (Yes I still stuck in loves with C# but I have some ability with other programming languages: JavaScript, HTML5, CSS, C++ and Batch/Bash Script)
 
 My GPG ID for commit changes:
-- `73DFFF228FBA0E73` (Actived, previous actived id are unusable)
+- `3D9C539C87BBC3E1` (Actived, previous actived id are unusable)
 - `F368902F9D63B82D` (Obsoleted in 2021.10.19)
 
 ### My active projects:
