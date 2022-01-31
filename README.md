@@ -3,9 +3,9 @@
 
 I'm a ~~osu noob~~ (lol) just kidding. I dont want to wrote some introduction cuz I only have ~~me and my trash repos~~.
 
-- 🔭 I’m currently working on my jobs now (yep I dont have much time and idea to take for developments 😢)
+<!--- 🔭 I’m currently working on my jobs now (yep I dont have much time and idea to take for developments 😢)-->
 <!--[Material.Avalonia](https://github.com/AvaloniaUtils/material.avalonia)-->
-- 🌱 I’m currently learning Kotlin and JetPack Compose
+<!-- 🌱 I’m currently learning Kotlin and JetPack Compose-->
 <!--AvaloniaUI and Unreal Engine!-->
 - 📫 How to reach me: appleneko2001@outlook.com (will respond after a long time due disabled notifications, messenger contact will more faster)
 
