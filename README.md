@@ -19,9 +19,6 @@ My GPG ID for commit changes:
 - `F368902F9D63B82D` (Obsoleted in 2021.10.19)
 
 ### My active projects:
-[![Material.Avalonia](https://img.shields.io/badge/Material.Avalonia-ff69b4)](https://github.com/AvaloniaUtils/material.avalonia)
-> AvaloniaUI performances are better than WPF, you should try this with AvaloniaUI to create Desktop Application with basic Material Design, if you care about performances and more better UI library without any CEF ([Chromium Embedded Framework](https://en.wikipedia.org/wiki/Chromium_Embedded_Framework)) to run everywhere!
-
 [![tak2flac-tools](https://img.shields.io/badge/tak2flac-tools-brightgreen)](https://github.com/appleneko2001/tak2flac)
 > Very handy when you don't want to write a lot commands / do a lot useless work for just split a tak file in Linux or Windows. FFMpeg required.
 
