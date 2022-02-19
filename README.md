@@ -18,7 +18,7 @@ My GPG ID for commit changes:
 - `3D9C539C87BBC3E1` (Actived, previous actived id are unusable)
 - `F368902F9D63B82D` (Obsoleted in 2021.10.19)
 
-### My active projects:
+### My ~~shitty~~ projects:
 [![tak2flac-tools](https://img.shields.io/badge/tak2flac-tools-brightgreen)](https://github.com/appleneko2001/tak2flac)
 > Very handy when you don't want to write a lot commands / do a lot useless work for just split a tak file in Linux or Windows. FFMpeg required.
 
