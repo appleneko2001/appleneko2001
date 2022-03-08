@@ -19,7 +19,4 @@
 
 > 不用擔心, 他們仍然還有機會復活! 只要我還在
 
-### 加入聊天:
-[![](https://img.shields.io/discord/764888749855080468?color=2c2f33&label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA)](https://discord.com/invite/5xKSXkm)
-
 PS: 比英文版少了不少字吧? 我也是這麼覺得的... 我自己看完也驚了
