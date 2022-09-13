@@ -21,11 +21,13 @@ My GPG ID for commit changes:
 ### Active repositories
 > High-priority repositories, which I maintain them oftenly.
 
-[Material design in avaloniaUI](https://github.com/AvaloniaCommunity/Material.Avalonia),
-[File explorer with avaloniaUI (Files)](https://github.com/appleneko2001/Files)
+[Material design in avaloniaUI](https://github.com/AvaloniaCommunity/Material.Avalonia)
 
 ### Inactive repositories
 > I might maintenance those things but not often as active repositories do.
+
+[![File explorer with avaloniaUI (Files)](https://img.shields.io/badge/Files-by_appleneko2001-yellow)](https://github.com/appleneko2001/Files)
+> ~~I want a file explorer, which looks clean, useful and optimized one. Make Windows and Linux better~~ Unfortunately my programming skills are too bad.. I dont want to update it unless I know how to programming elegantly.
 
 [![Material.WindowStyle](https://img.shields.io/badge/Material.WindowStyle-by_appleneko2001-yellow)](https://github.com/appleneko2001/Material.WindowStyle)
 > A simple style library for avaloniaUI, it styling your window as Material-Design like and their source code are simple to understand.
