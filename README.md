@@ -1,6 +1,8 @@
 ## Welcome to my github page! 👋
 > Tips: 想要看中文的個人頁面嗎? [這裏👋](README.zh-Hant.md)
 
+> I dont like political things, plz avoid me if you want to try talk with me about political trending. It makes me headache.
+
 I dont want to write something about me becuz I only have ~~me and my trash repos~~.
 
 <!--- 🔭 I’m currently working on my jobs now (yep I dont have much time and idea to take for developments 😢)-->
@@ -45,14 +47,6 @@ My GPG ID for commit changes:
 [![Github-ProfileLeftDockFix](https://img.shields.io/badge/Github_ProfileLeftDockFix-by_appleneko2001-yellow)](https://github.com/appleneko2001/GithubProfileLeftDockFix)
 > ~~Fix the damn left details layout of Github profile.~~
 > I dont care those details anymore, I have jobs to do and they are most important than this :(
-
-### Graveyards repositories
-[My hexo blog](https://github.com/appleneko2001/appleneko2001.github.io), [WPF Music Player with Material Design](https://github.com/appleneko2001/NekoPlayer-Alpha), 
-[LrcParser with TimeSpan patches](https://github.com/appleneko2001/LrcParser), [Material Design in XAML Mod](https://github.com/appleneko2001/MaterialDesignInXaml-Mod)
-
-> But don't worry, they still have chances to revive again when I still alive!
-
-And I'm sorry about my English knowledges if u misunderstand, it is not ur mistake.
 
 ### Donate
 [![Donate me through yoomoney (Yandex.Wallet)](https://img.shields.io/badge/Yoomoney-Donate-8B3FFD)](https://yoomoney.ru/to/4100116333503118)
