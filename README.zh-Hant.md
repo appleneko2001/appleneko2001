@@ -1,5 +1,7 @@
 ## 歡迎來到我的 Github 個人頁面! 👋
 
+> 請不要與我討論政治 它讓我頭疼過 我不想再體驗第二次
+
 我是 osu! ~~廢物~~ (開玩笑 我只是不想寫介紹而已) 
 
 *永遠不會停止編寫 C# 程式, ~~繼續戰勝 Java!~~(這是個玩笑 但是對我來講 Java 很爛 希望你不會生氣)*
@@ -37,5 +39,3 @@
 
 ### 打錢 (ㄒㄧ蘭騙錢臉)
 [![在 yoomoney 平台上給我打錢 (Yandex.Wallet)](https://img.shields.io/badge/Yoomoney_(Yandex.Wallet)-贊助-8B3FFD)](https://yoomoney.ru/to/4100116333503118)
-
-
