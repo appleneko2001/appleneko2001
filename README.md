@@ -23,7 +23,7 @@ My GPG ID for commit changes:
 ### Active repositories
 > High-priority repositories, which I maintain them oftenly.
 
-[Material design in avaloniaUI](https://github.com/AvaloniaCommunity/Material.Avalonia)
+[![Material design in avaloniaUI](https://github-readme-stats.vercel.app/api/pin/?username=AvaloniaCommunity&repo=Material.Avalonia&theme=tokyonight)](https://github.com/AvaloniaCommunity/Material.Avalonia)
 
 ### Inactive repositories
 > I might maintenance those things but not often as active repositories do.
@@ -48,9 +48,21 @@ My GPG ID for commit changes:
 > ~~Fix the damn left details layout of Github profile.~~
 > I dont care those details anymore, I have jobs to do and they are most important than this :(
 
+### Stats
+
+<span><img style="max-width: 100%;height: 195px;" src="https://github-readme-stats.vercel.app/api?username=appleneko2001&show_icons=true&theme=tokyonight"/></span>
+<span><img style="max-width: 100%;height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appleneko2001&show_icons=true&theme=tokyonight&layout=compact"/></span>
+
+
+
+
 ### Donate
 [![Donate me through yoomoney (Yandex.Wallet)](https://img.shields.io/badge/Yoomoney-Donate-8B3FFD)](https://yoomoney.ru/to/4100116333503118)
 
+
+### Third-Party technologies used in this page:
++ [GitHub readme stats card](https://github.com/anuraghazra/github-readme-stats)
++ [Shields.io badges](https://shields.io)
 <!--
 **appleneko2001/appleneko2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
