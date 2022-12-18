@@ -9,7 +9,7 @@ I dont want to write something about me becuz I only have ~~me and my trash repo
 <!--[Material.Avalonia](https://github.com/AvaloniaUtils/material.avalonia)-->
 <!-- 🌱 I’m currently learning Kotlin and JetPack Compose-->
 <!--AvaloniaUI and Unreal Engine!-->
-- 📫 How to reach me: appleneko2001@outlook.com (will respond after a long time due disabled notifications, messenger contact will more faster)
+- 📫 How to reach me: appleneko2001 @ outlook.com (will respond after a long time due disabled notifications, messenger contact will more faster)
 
 *~~Never stop programming with C#, keep beat Java!(it's a joke bro but Java are useless for me)~~*</br>
 *This statement has been changed after November of 2021 year, because I started to learning Java and Kotlin.*
