@@ -1,3 +1,8 @@
+> <h1>😔</h1>
+> <div>I WONT ACTIVE ON GITHUB LONG TIME, BUT I WOULD REPLY SOME QUESTIONS RARELY</div>
+> <div>SORRY, BUT I WANT SOME BREAK FROM GITHUB NOW. FIND SOME JOBS AND MAKE SOME PAPERS FOR MYSELF TO KEEP ALIVE.</div>
+
+
 ## Welcome to my github page! 👋
 > Tips: 想要看中文的個人頁面嗎? [這裏👋](README.zh-Hant.md)
 
