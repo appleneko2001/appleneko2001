@@ -25,8 +25,9 @@ My GPG ID for commit changes:
 - `3D9C539C87BBC3E1` (Actived, previous actived id are unusable)
 - `F368902F9D63B82D` (Outdated after 2021.10.19, dont trust any commits with this GPG after outdate)
 
-### Active repositories
-> High-priority repositories, which I maintain them oftenly.
+### ~~Active~~Recommended repositories
+> ~~High-priority repositories, which I maintain them oftenly.~~
+> I have no such a lot time to maintain them. But, its actually cool to try them.
 
 [![ResourceOverridePlus extension](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=ResourceOverridePlus&theme=tokyonight)](https://github.com/appleneko2001/ResourceOverridePlus)
 
