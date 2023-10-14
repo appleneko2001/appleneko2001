@@ -4,7 +4,7 @@
 
 
 ## Welcome to my github page! 👋
-> Tips: 想要看中文的個人頁面嗎? [這裏👋](README.zh-Hant.md)
+> Tips: 想要看中文的個人頁面嗎? [這裏👋](./README.zh-Hant.md)
 
 > I dont like political things, plz avoid me if you want to try talk with me about political trending. It makes me headache.
 
