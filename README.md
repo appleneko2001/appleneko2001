@@ -29,7 +29,8 @@ My GPG ID for commit changes:
 > ~~High-priority repositories, which I maintain them oftenly.~~
 > I have no such a lot time to maintain them. But, its actually cool to try them.
 
-[![ResourceOverridePlus extension](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=ResourceOverridePlus&theme=tokyonight)](https://github.com/appleneko2001/ResourceOverridePlus)
+<!--
+[![ResourceOverridePlus extension](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=ResourceOverridePlus&theme=tokyonight)](https://github.com/appleneko2001/ResourceOverridePlus)-->
 
 [![Material design in avaloniaUI](https://github-readme-stats.vercel.app/api/pin/?username=AvaloniaCommunity&repo=Material.Avalonia&theme=tokyonight)](https://github.com/AvaloniaCommunity/Material.Avalonia)
 
