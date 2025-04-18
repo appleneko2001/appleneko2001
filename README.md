@@ -25,8 +25,14 @@ My GPG ID for commit changes:
 - `3D9C539C87BBC3E1` (Actived, previous actived id are unusable)
 - `F368902F9D63B82D` (Outdated after 2021.10.19, dont trust any commits with this GPG after outdate)
 
-### ~~Active~~Recommended repositories
-> ~~High-priority repositories, which I maintain them oftenly.~~
+### Active
+> Slightly focusing on those projects
+
+[![NanoVG (MODIFIED)](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=nanovg&theme=tokyonight)](https://github.com/appleneko2001/nanovg)
+
+[![Project cytia (open-source cytus-like rhythm game, but still in unstable development and its not ready yet)](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=project-cytia&theme=tokyonight)](https://github.com/appleneko2001/project-cytia)
+
+### Recommended repositories
 > I have no such a lot time to maintain them. But, its actually cool to try them.
 
 <!--
