@@ -5,6 +5,7 @@
 
 ## Welcome to my github page! 👋
 > Tips: 想要看中文的個人頁面嗎? [這裏👋](./README.zh-Hant.md)
+> PS: its outdated lol 頁面已經過期不建議
 
 > I dont like political things, plz avoid me if you want to try talk with me about political trending. It makes me headache.
 
@@ -28,9 +29,7 @@ My GPG ID for commit changes:
 ### Active
 > Slightly focusing on those projects
 
-[![NanoVG (MODIFIED)](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=nanovg&theme=tokyonight)](https://github.com/appleneko2001/nanovg)
-
-[![Project cytia (open-source cytus-like rhythm game, but still in unstable development and its not ready yet)](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=project-cytia&theme=tokyonight)](https://github.com/appleneko2001/project-cytia)
+[![Material design in avaloniaUI](https://github-readme-stats.vercel.app/api/pin/?username=AvaloniaCommunity&repo=Material.Avalonia&theme=tokyonight)](https://github.com/AvaloniaCommunity/Material.Avalonia)
 
 ### Recommended repositories
 > I have no such a lot time to maintain them. But, its actually cool to try them.
@@ -38,7 +37,14 @@ My GPG ID for commit changes:
 <!--
 [![ResourceOverridePlus extension](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=ResourceOverridePlus&theme=tokyonight)](https://github.com/appleneko2001/ResourceOverridePlus)-->
 
-[![Material design in avaloniaUI](https://github-readme-stats.vercel.app/api/pin/?username=AvaloniaCommunity&repo=Material.Avalonia&theme=tokyonight)](https://github.com/AvaloniaCommunity/Material.Avalonia)
+[![NanoVG (MODIFIED)](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=nanovg&theme=tokyonight)](https://github.com/appleneko2001/nanovg)
+
+[![Project cytia (open-source cytus-like rhythm game, but still in unstable development and its not ready yet)](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=project-cytia&theme=tokyonight)](https://github.com/appleneko2001/project-cytia)
+
+### Which browser I'm using you ask me?
+[![My personal jQuery mod, a WebView based simple browser](https://github-readme-stats.vercel.app/api/pin/?username=appleneko2001&repo=android_packages_apps_Jelly&theme=tokyonight)](https://github.com/appleneko2001/android_packages_apps_Jelly)
+
+and yea somehow it may not perfect and I would use chromium / firefox instead lol
 
 ### Inactive repositories
 > I might maintenance those things but not often as active repositories do.
