@@ -1,13 +1,12 @@
+<!--
 > <h1>😔</h1>
 > <div>I WONT ACTIVE ON GITHUB LONG TIME, BUT I WOULD REPLY SOME QUESTIONS RARELY</div>
 > <div>SORRY, BUT I WANT SOME BREAK FROM GITHUB NOW. FIND SOME JOBS AND MAKE SOME PAPERS FOR MYSELF TO KEEP ALIVE.</div>
-
+-->
 
 ## Welcome to my github page! 👋
 > Tips: 想要看中文的個人頁面嗎? [這裏👋](./README.zh-Hant.md)
 > PS: its outdated lol 頁面已經過期不建議
-
-> I dont like political things, plz avoid me if you want to try talk with me about political trending. It makes me headache.
 
 I dont want to write something about me becuz I only have ~~me and my trash repos~~.
 
@@ -16,6 +15,7 @@ I dont want to write something about me becuz I only have ~~me and my trash repo
 <!-- 🌱 I’m currently learning Kotlin and JetPack Compose-->
 <!--AvaloniaUI and Unreal Engine!-->
 - 📫 How to reach me: appleneko2001 @ outlook.com (will respond after a long time due disabled notifications, messenger contact will more faster)
+> I dont like political things, plz go away me if you want to try talk / argue with me about political trending. It makes me headache.
 
 *~~Never stop programming with C#, keep beat Java!(it's a joke bro but Java are useless for me)~~*</br>
 *This statement has been changed after November of 2021 year, because I started to learning Java and Kotlin.*
