@@ -23,7 +23,8 @@ I dont want to write something about me becuz I only have ~~me and my trash repo
 (Yes I still stuck in loves with C# but I have some ability with other programming languages: JavaScript, HTML5, CSS, C++ and Batch/Bash Script)
 
 My GPG ID for commit changes:
-- `3D9C539C87BBC3E1` (Actived, previous actived id are unusable)
+- `5DB74B01D35DB2F5`
+- `3D9C539C87BBC3E1` (Being deprecate, previous and this id is should not be used for commit after 2025.06.12)
 - `F368902F9D63B82D` (Outdated after 2021.10.19, dont trust any commits with this GPG after outdate)
 
 ### Active
