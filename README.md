@@ -1,8 +1,10 @@
-<!--
 > <h1>😔</h1>
-> <div>I WONT ACTIVE ON GITHUB LONG TIME, BUT I WOULD REPLY SOME QUESTIONS RARELY</div>
+> <div>I WONT ACTIVE ON GITHUB FOR LONG TIME, BUT I WOULD REPLY SOME QUESTIONS RARELY AT SOMEWHERE</div>
 > <div>SORRY, BUT I WANT SOME BREAK FROM GITHUB NOW. FIND SOME JOBS AND MAKE SOME PAPERS FOR MYSELF TO KEEP ALIVE.</div>
--->
+
+Below things doesnt matter anymore, just keep it as a memory I guess
+
+--------
 
 ## Welcome to my github page! 👋
 > Tips: 想要看中文的個人頁面嗎? [這裏👋](./README.zh-Hant.md)
